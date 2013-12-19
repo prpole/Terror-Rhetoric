@@ -133,17 +133,17 @@ Our analysis was framed as a comparison between the Bush and Obama administratio
 
 Using NVivo, we traced the frequency of "terror" and its stem words (i.e. "terrorism," "terrorist," "terrorists," etc.). This was a simple word frequency count. The results were both startling in their degree and consistent with our expectations in their nature. 
 
-![Fig. 1 - Bush Graph] (/BushTerrorGraph.jpg?raw=true)
+![Fig. 1 - Bush Graph] (http://pp2454.github.io/BushTerrorGraph.jpg?raw=true)
 
 Though the average use of "terror" and its stem words peaks early, usage is consistent and frequent throughout the Bush administration. Spikes continue to more than quadruple the average occurrence per speech throughout the administration's term. Obama's use of the term is much less pronounced:
 
-[Fig. 2: Obama Graph] (/ObamaTerrorGraph.jpg?raw=true)
+[Fig. 2: Obama Graph] (http://pp2454.github.io/ObamaTerrorGraph.jpg?raw=true)
 
 Unlike the frequent and consistent use of "terror" in the Bush administration, the Obama administration uses the term infrequently and inconsistently. With one major exception (May 23, 2013, a speech given to the National Defense University), spikes are low, rarely exceeding a count of three. 
 
 The following table summarizes the numeric difference between the two administrations' rhetoric:
 
-[Fig. 3: Table] (/TerrorTable.jpg?raw=true)
+[Fig. 3: Table] (http://pp2454.github.io/TerrorTable.jpg?raw=true)
 
 
 
